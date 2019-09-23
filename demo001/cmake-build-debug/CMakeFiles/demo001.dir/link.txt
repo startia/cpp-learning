@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/demo001.dir/main.cpp.o CMakeFiles/demo001.dir/demo001.cpp.o CMakeFiles/demo001.dir/demo002.cpp.o  -o demo001.exe -Wl,--out-implib,libdemo001.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
